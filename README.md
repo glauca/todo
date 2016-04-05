@@ -21,3 +21,6 @@
 - [ ] [Redis in Action](https://book.douban.com/subject/10597898/)
 - [ ] [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 - [ ] [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
+- [ ] [曼昆《经济学原理》]
+- [ ] [萨缪尔森《经济学》]
+- [ ] [斯蒂格利茨《经济学》]
