@@ -16,6 +16,7 @@
 
 # Books 2016
 
+- [X] [PHP设计模式](https://book.douban.com/subject/4865086/)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Redis in Action](https://book.douban.com/subject/10597898/)
 - [ ] [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
