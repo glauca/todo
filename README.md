@@ -31,4 +31,4 @@ IT
 - [ ] [曼昆《经济学原理》]
 - [ ] [萨缪尔森《经济学》]
 - [ ] [斯蒂格利茨《经济学》]
-- [ ] [异类：不一样的成功启示录](https://book.douban.com/subject/3688489/) [笔记](./books/Outliers.md)
+- [ ] [异类：不一样的成功启示录](https://book.douban.com/subject/3688489/) [笔记](./src/books/management/Outliers/README.md)
