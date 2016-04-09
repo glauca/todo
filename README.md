@@ -4,7 +4,7 @@
 - [ ] :four_leaf_clover:
 - [ ] :boy: :girl:
 
-# 技术 2016
+# Tech 2016
 
 - [ ] [gitolite](http://gitolite.com/gitolite/gitolite.html)
 - [ ] [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html)
