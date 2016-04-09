@@ -8,6 +8,8 @@
 
 - [ ] [gitolite](http://gitolite.com/gitolite/gitolite.html)
 - [ ] [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html)
+- [ ] [深入理解Yii2.0](http://www.digpage.com/)
+- [ ] [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
 - [ ] [nginx documentation](http://nginx.org/en/docs/)
 - [ ] [MySQL 5.6 Reference Manual](http://dev.mysql.com/doc/refman/5.6/en/)
 - [ ] [Phalcon](https://docs.phalconphp.com/en/latest/index.html)
@@ -31,4 +33,4 @@ IT
 - [ ] 经济学原理 - 曼昆
 - [ ] 经济学 - 萨缪尔森
 - [ ] 经济学 - 斯蒂格利茨
-- [ ] [异类：不一样的成功启示录](https://book.douban.com/subject/3688489/) [笔记](./src/books/management/Outliers/README.md)
+- [ ] [异类：不一样的成功启示录](https://book.douban.com/subject/25863621/) [笔记](./src/books/management/Outliers/README.md)
