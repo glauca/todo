@@ -31,6 +31,17 @@ IT
 经济
 
 - [ ] 经济学原理 - 曼昆
-- [ ] 经济学 - 萨缪尔森
+- [ ] [经济学 - 萨缪尔森](https://book.douban.com/subject/25767311/)
 - [ ] 经济学 - 斯蒂格利茨
+- [ ] 高级宏观经济学 - 戴维·罗默 (David Romer)
 - [X] [异类：不一样的成功启示录](https://book.douban.com/subject/25863621/) [笔记](./src/books/management/Outliers/README.md)
+
+# Books Continue ...
+
+经济
+
+- [ ] 管理经济学 - 莫瑞斯
+- [ ] 微观经济学 - 平狄克
+- [ ] 宏观经济学 - 多恩布什
+- [ ] 全球视角的宏观经济学 - 杰弗里•萨克斯
+- [ ] Microeconomic Theory - Nicholson
