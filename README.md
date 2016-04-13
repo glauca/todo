@@ -7,7 +7,7 @@
 # Tech 2016
 
 - [ ] [gitolite all-in-one page](http://gitolite.com/gitolite/gitolite.html)
-- [ ] [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html)
+- [ ] [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html) [笔记](https://github.com/glauca/document/blob/master/src/php/framework/yii/README.md)
 - [ ] [深入理解Yii2.0](http://www.digpage.com/)
 - [ ] [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
 - [ ] [nginx documentation](http://nginx.org/en/docs/)
@@ -22,7 +22,7 @@ IT
 
 - [X] [PHP设计模式](https://book.douban.com/subject/4865086/)
 - [X] [Pro Git 2nd Edition](https://git-scm.com/book/en/v2) [笔记](https://github.com/glauca/document/blob/master/src/vcs/git.md)
-- [ ] [HTTP权威指南](https://book.douban.com/subject/10746113/) [笔记](./src/books/program/HTTP The Definitive Guide\README.md)
+- [ ] [HTTP权威指南](https://book.douban.com/subject/10746113/) [笔记](./src/books/program/HTTP The Definitive Guide/README.md)
 - [ ] [Redis in Action](https://book.douban.com/subject/10597898/)
 - [ ] [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 - [ ] [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
