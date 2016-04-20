@@ -30,7 +30,7 @@ IT
 
 经济
 
-- [ ] 经济学原理 - 曼昆
+- [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
 - [ ] [经济学 - 萨缪尔森](https://book.douban.com/subject/25767311/)
 - [ ] 经济学 - 斯蒂格利茨
 - [ ] 高级宏观经济学 - 戴维·罗默 (David Romer)
