@@ -29,7 +29,7 @@ IT
 - [ ] [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
 - [ ] [MongoDB in Action, 2nd Edition](http://vbird.dic.ksu.edu.tw/linux_server/) [download](http://pan.baidu.com/s/1dFnsNfF)
 
-经济
+经济 社会 心理
 
 - [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
 - [ ] [经济学 - 萨缪尔森](https://book.douban.com/subject/25767311/)
@@ -37,6 +37,7 @@ IT
 - [ ] 高级宏观经济学 - 戴维·罗默 (David Romer)
 - [X] [异类：不一样的成功启示录](https://book.douban.com/subject/25863621/) [笔记](./src/books/management/Outliers/README.md)
 - [ ] [萨缪尔森谈效率、公平与混合经济](https://book.douban.com/subject/10540192/)
+- [ ] [逆转](https://book.douban.com/subject/20480678/)
 
 # Books Continue ...
 
