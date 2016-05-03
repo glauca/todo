@@ -3,6 +3,7 @@
 - [ ] Magotan - cc - 10W :car:
 - [ ] :four_leaf_clover:
 - [ ] :boy: :girl:
+- [ ] :city_sunrise::city_sunset:
 
 # Tech 2016
 
