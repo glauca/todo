@@ -51,6 +51,7 @@ IT
 
 # Movies 2016
 
-1. [星球大战7：原力觉醒](https://movie.douban.com/subject/20326665/)
-1. [异形](https://movie.douban.com/subject/1300868/)
-1. [异形2](https://movie.douban.com/subject/1293792/)
+1. [星球大战7：原力觉醒 Star Wars: The Force Awakens (2015)](https://movie.douban.com/subject/20326665/)
+1. [忠犬八公的故事  Hachi: A Dog's Tale (2009)](https://movie.douban.com/subject/3011091/)
+1. [异形 Alien (1979)](https://movie.douban.com/subject/1300868/)
+1. [异形2 Aliens (1986)](https://movie.douban.com/subject/1293792/)
