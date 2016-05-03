@@ -27,7 +27,7 @@ IT
 - [ ] [Redis in Action](https://book.douban.com/subject/10597898/)
 - [ ] [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
 - [ ] [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
-- [ ] [MongoDB in Action, 2nd Edition](http://vbird.dic.ksu.edu.tw/linux_server/) [download](http://pan.baidu.com/s/1dFnsNfF)
+- [ ] [MongoDB in Action, 2nd Edition](https://book.douban.com/subject/26723983/) [download](http://pan.baidu.com/s/1dFnsNfF)
 - [ ] [HTML5: 20 Lessons to Successful Web Development](https://book.douban.com/subject/26629912/)
 
 经济 社会 心理
