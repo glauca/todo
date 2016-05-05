@@ -53,6 +53,8 @@ IT
 
 # Movies 2016
 
+1. :star::star::star::star::star: [天空之城 天空の城ラピュタ (1986)](https://movie.douban.com/subject/1291583/)
+1. :star::star::star::dizzy::dizzy: [我的个神啊 PK (2014)](https://movie.douban.com/subject/10741643/)
 1. :star::star::star::dizzy::dizzy: [星球大战7：原力觉醒 Star Wars: The Force Awakens (2015)](https://movie.douban.com/subject/20326665/)
 1. :star::star::star::star::star: [小黄人大眼萌 Minions (2015)](https://movie.douban.com/subject/11624706/)
 1. :star::star::star::star::star: [忠犬八公的故事  Hachi: A Dog's Tale (2009)](https://movie.douban.com/subject/3011091/)
