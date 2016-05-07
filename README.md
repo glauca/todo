@@ -66,3 +66,4 @@ IT
 1. :star::star::star::star::star: [ 谁建造了美国 ](http://open.163.com/movie/2014/4/2/V/M9OI1SF08_M9OIE9N2V.html)
 1. :star::star::star::star::dizzy: [异形 Alien (1979)](https://movie.douban.com/subject/1300868/)
 1. :star::star::star::star::dizzy: [异形2 Aliens (1986)](https://movie.douban.com/subject/1293792/)
+1. :star::star::star::star::dizzy: [英国公开大学:银行业危机——源起与后果](http://open.163.com/special/opencourse/banking.html)
