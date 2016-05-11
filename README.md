@@ -56,7 +56,7 @@ IT
 - [ ] 全球视角的宏观经济学 - 杰弗里•萨克斯
 - [ ] Microeconomic Theory - Nicholson
 
-# Movies 2016
+# Movies & Videos 2016
 
 1. :star::star::star::star::star: [天空之城 天空の城ラピュタ (1986)](https://movie.douban.com/subject/1291583/)
 1. :star::star::star::dizzy::dizzy: [我的个神啊 PK (2014)](https://movie.douban.com/subject/10741643/)
@@ -67,3 +67,4 @@ IT
 1. :star::star::star::star::dizzy: [异形 Alien (1979)](https://movie.douban.com/subject/1300868/)
 1. :star::star::star::star::dizzy: [异形2 Aliens (1986)](https://movie.douban.com/subject/1293792/)
 1. :star::star::star::star::dizzy: [英国公开大学:银行业危机——源起与后果](http://open.163.com/special/opencourse/banking.html)
+1. :star::star::star::star::star: [斯坦福大学公开课:经济学](http://v.163.com/special/economics/)
