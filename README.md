@@ -16,6 +16,7 @@
 - [ ] [Phalcon 2.0.10 documentation](https://docs.phalconphp.com/en/latest/index.html)
 - [ ] [The MongoDB 3.2 Manual](https://docs.mongodb.org/manual/)
 - [ ] [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
+- [ ] [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 # Books 2016
