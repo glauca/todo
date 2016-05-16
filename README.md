@@ -38,7 +38,7 @@ IT
 - [ ] 经济学 - 斯蒂格利茨
 - [ ] 高级宏观经济学 - 戴维·罗默 (David Romer)
 - [X] [异类：不一样的成功启示录](https://book.douban.com/subject/25863621/) [笔记](./src/books/management/Outliers/README.md)
-- [ ] [萨缪尔森谈效率、公平与混合经济](https://book.douban.com/subject/10540192/)
+- [X] [萨缪尔森谈效率、公平与混合经济](https://book.douban.com/subject/10540192/)
 - [X] [逆转：弱者如何找到优势，反败为胜](https://book.douban.com/subject/20480678/) [笔记](./src/books/management/David_and_Goliath/README.md)
 - [ ] [光荣与梦想1：1932-1972年美国社会实录 (1932-1941)](https://book.douban.com/subject/26314948/)
 - [ ] [光荣与梦想2：1932-1972年美国社会实录 (1942-1950)](https://book.douban.com/subject/26314950/)
