@@ -46,6 +46,9 @@ IT
 - [ ] [光荣与梦想3：1932-1972年美国社会实录 (1951-1960)](https://book.douban.com/subject/26314951/)
 - [ ] [光荣与梦想4：1932-1972年美国社会实录 (1961-1972)](https://book.douban.com/subject/26314952/)
 - [ ] [从0到1：开启商业与未来的秘密](https://book.douban.com/subject/26297606/)
+- [ ] 激荡三十年
+- [ ] 跌荡一百年
+- [ ] 大败局
 
 # Books Continue ...
 
