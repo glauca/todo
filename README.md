@@ -12,7 +12,7 @@
 - [ ] [深入理解Yii2.0](http://www.digpage.com/)
 - [ ] [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
 - [ ] [nginx documentation](http://nginx.org/en/docs/)
-- [ ] [MySQL 5.6 Reference Manual](http://dev.mysql.com/doc/refman/5.6/en/)
+- [ ] [MySQL 5.7 Reference Manual](http://dev.mysql.com/doc/refman/5.7/en/)
 - [ ] [Phalcon 2.0.10 documentation](https://docs.phalconphp.com/en/latest/index.html)
 - [ ] [The MongoDB 3.2 Manual](https://docs.mongodb.org/manual/)
 - [ ] [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
