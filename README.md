@@ -75,5 +75,6 @@ IT
 1. :star::star::star::star::dizzy: [英国公开大学:银行业危机——源起与后果](http://open.163.com/special/opencourse/banking.html)
 1. :star::star::star::star::star: [斯坦福大学公开课:经济学](http://v.163.com/special/economics/)
 1. :star::star::star::star::star: [天书奇谭 (1983)](https://movie.douban.com/subject/1428581/)
-1. :star::star::star::star::dizzy: [ 普罗米修斯 Prometheus (2012)](https://movie.douban.com/subject/3771562/)
+1. :star::star::star::star::dizzy: [普罗米修斯 Prometheus (2012)](https://movie.douban.com/subject/3771562/)
 1. :star::star::star::star::star: [穆桂英挂帅 (2011)](https://movie.douban.com/subject/10438503/)
+1. :star::star::star::star::star: [穿靴子的猫: 萌猫三剑客 Puss in Boots: The Three Diablos (2012)](https://movie.douban.com/subject/10521648/)
