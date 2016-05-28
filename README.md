@@ -4,6 +4,7 @@
 - [ ] :four_leaf_clover:
 - [ ] :boy: :girl:
 - [ ] :city_sunrise::city_sunset:
+- [ ] :rice::ramen::hamburger::egg:
 
 # Tech 2016
 
