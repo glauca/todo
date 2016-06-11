@@ -45,7 +45,7 @@ IT
 - [X] [逆转：弱者如何找到优势，反败为胜](https://book.douban.com/subject/20480678/) [笔记](./src/books/management/David_and_Goliath/README.md)
 - [ ] [光荣与梦想1：1932-1972年美国社会实录 (1932-1941)](https://book.douban.com/subject/26314948/)
 - [X] [光荣与梦想2：1932-1972年美国社会实录 (1942-1950)](https://book.douban.com/subject/26314950/)
-- [ ] [光荣与梦想3：1932-1972年美国社会实录 (1951-1960)](https://book.douban.com/subject/26314951/)
+- [X] [光荣与梦想3：1932-1972年美国社会实录 (1951-1960)](https://book.douban.com/subject/26314951/)
 - [ ] [光荣与梦想4：1932-1972年美国社会实录 (1961-1972)](https://book.douban.com/subject/26314952/)
 - [ ] [从0到1：开启商业与未来的秘密](https://book.douban.com/subject/26297606/)
 - [ ] 激荡三十年
