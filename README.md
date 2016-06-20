@@ -1,70 +1,67 @@
 # Todo 2016
 
-- [ ] Magotan - cc - 10W :car:
-- [ ] :four_leaf_clover:
-- [ ] :boy: :girl:
-- [ ] :city_sunrise::city_sunset:
-- [ ] :rice::ramen::hamburger::egg:
+1. [ ] Magotan - cc - 10W :car:
+1. [ ] :four_leaf_clover:
+1. [ ] :boy: :girl:
+1. [ ] :city_sunrise::city_sunset:
+1. [ ] :rice::ramen::hamburger::egg:
 
 # Tech 2016
 
-- [ ] [gitolite all-in-one page](http://gitolite.com/gitolite/gitolite.html)
-- [ ] [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html) [笔记](https://github.com/glauca/document/blob/master/src/php/framework/yii/README.md)
-- [ ] [深入理解Yii2.0](http://www.digpage.com/)
-- [ ] [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
-- [ ] [nginx documentation](http://nginx.org/en/docs/)
-- [ ] [MySQL 5.7 Reference Manual](http://dev.mysql.com/doc/refman/5.7/en/)
-- [ ] [Phalcon 2.0.10 documentation](https://docs.phalconphp.com/en/latest/index.html)
-- [ ] [The MongoDB 3.2 Manual](https://docs.mongodb.org/manual/)
-- [ ] [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
-- [ ] [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+1. [ ] [gitolite all-in-one page](http://gitolite.com/gitolite/gitolite.html)
+1. [ ] [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html) [笔记](https://github.com/glauca/document/blob/master/src/php/framework/yii/README.md)
+1. [ ] [深入理解Yii2.0](http://www.digpage.com/)
+1. [ ] [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
+1. [ ] [nginx documentation](http://nginx.org/en/docs/)
+1. [ ] [MySQL 5.7 Reference Manual](http://dev.mysql.com/doc/refman/5.7/en/)
+1. [ ] [Phalcon 2.0.10 documentation](https://docs.phalconphp.com/en/latest/index.html)
+1. [ ] [The MongoDB 3.2 Manual](https://docs.mongodb.org/manual/)
+1. [ ] [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html)
+1. [ ] [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 # Books 2016
 
-IT
++ IT
+    1. [X] [PHP设计模式](https://book.douban.com/subject/4865086/)
+    1. [X] [Pro Git 2nd Edition](https://git-scm.com/book/en/v2) [笔记](https://github.com/glauca/document/blob/master/src/vcs/git.md)
+    1. [ ] [HTTP权威指南](https://book.douban.com/subject/10746113/) [笔记](./src/books/program/HTTP The Definitive Guide/README.md)
+    1. [ ] [Redis in Action](https://book.douban.com/subject/10597898/)
+    1. [ ] [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
+    1. [ ] [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
+    1. [ ] [MongoDB in Action, 2nd Edition](https://book.douban.com/subject/26723983/) [download](http://pan.baidu.com/s/1dFnsNfF)
+    1. [X] [HTML5: 20 Lessons to Successful Web Development](https://book.douban.com/subject/26629912/)
+    1. [ ] [Programming HTML5 Applications](https://book.douban.com/subject/6726963/)
+    1. [ ] [JavaScript高级程序设计 (第3版)](https://book.douban.com/subject/10546125/)
+    1. [ ] [jQuery基础教程 (第4版)](https://book.douban.com/subject/25733582/)
 
-- [X] [PHP设计模式](https://book.douban.com/subject/4865086/)
-- [X] [Pro Git 2nd Edition](https://git-scm.com/book/en/v2) [笔记](https://github.com/glauca/document/blob/master/src/vcs/git.md)
-- [ ] [HTTP权威指南](https://book.douban.com/subject/10746113/) [笔记](./src/books/program/HTTP The Definitive Guide/README.md)
-- [ ] [Redis in Action](https://book.douban.com/subject/10597898/)
-- [ ] [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
-- [ ] [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
-- [ ] [MongoDB in Action, 2nd Edition](https://book.douban.com/subject/26723983/) [download](http://pan.baidu.com/s/1dFnsNfF)
-- [X] [HTML5: 20 Lessons to Successful Web Development](https://book.douban.com/subject/26629912/)
-- [ ] [Programming HTML5 Applications](https://book.douban.com/subject/6726963/)
-- [ ] [JavaScript高级程序设计 (第3版)](https://book.douban.com/subject/10546125/)
-- [ ] [jQuery基础教程 (第4版)](https://book.douban.com/subject/25733582/)
-
-经济 社会 心理
-
-- [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
-- [ ] [经济学 - 萨缪尔森](https://book.douban.com/subject/25767311/)
-- [ ] 经济学 - 斯蒂格利茨
-- [ ] 高级宏观经济学 - 戴维·罗默 (David Romer)
-- [X] [异类：不一样的成功启示录](https://book.douban.com/subject/25863621/) [笔记](./src/books/management/Outliers/README.md)
-- [X] [萨缪尔森谈效率、公平与混合经济](https://book.douban.com/subject/10540192/)
-- [X] [逆转：弱者如何找到优势，反败为胜](https://book.douban.com/subject/20480678/) [笔记](./src/books/management/David_and_Goliath/README.md)
-- [ ] [光荣与梦想1：1932-1972年美国社会实录 (1932-1941)](https://book.douban.com/subject/26314948/)
-- [X] [光荣与梦想2：1932-1972年美国社会实录 (1942-1950)](https://book.douban.com/subject/26314950/)
-- [X] [光荣与梦想3：1932-1972年美国社会实录 (1951-1960)](https://book.douban.com/subject/26314951/)
-- [ ] [光荣与梦想4：1932-1972年美国社会实录 (1961-1972)](https://book.douban.com/subject/26314952/)
-- [ ] [从0到1：开启商业与未来的秘密](https://book.douban.com/subject/26297606/)
-- [ ] 激荡三十年
-- [ ] 跌荡一百年
-- [ ] 大败局
-- [ ] 人类群星闪耀时
-- [ ] 人类简史
++ 经济 社会 心理
+    1. [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
+    1. [ ] [经济学 - 萨缪尔森](https://book.douban.com/subject/25767311/)
+    1. [ ] 经济学 - 斯蒂格利茨
+    1. [ ] 高级宏观经济学 - 戴维·罗默 (David Romer)
+    1. [X] [异类：不一样的成功启示录](https://book.douban.com/subject/25863621/) [笔记](./src/books/management/Outliers/README.md)
+    1. [X] [萨缪尔森谈效率、公平与混合经济](https://book.douban.com/subject/10540192/)
+    1. [X] [逆转：弱者如何找到优势，反败为胜](https://book.douban.com/subject/20480678/) [笔记](./src/books/management/David_and_Goliath/README.md)
+    1. [ ] [光荣与梦想1：1932-1972年美国社会实录 (1932-1941)](https://book.douban.com/subject/26314948/)
+    1. [X] [光荣与梦想2：1932-1972年美国社会实录 (1942-1950)](https://book.douban.com/subject/26314950/)
+    1. [X] [光荣与梦想3：1932-1972年美国社会实录 (1951-1960)](https://book.douban.com/subject/26314951/)
+    1. [ ] [光荣与梦想4：1932-1972年美国社会实录 (1961-1972)](https://book.douban.com/subject/26314952/)
+    1. [ ] [从0到1：开启商业与未来的秘密](https://book.douban.com/subject/26297606/)
+    1. [ ] 激荡三十年
+    1. [ ] 跌荡一百年
+    1. [ ] 大败局
+    1. [ ] 人类群星闪耀时
+    1. [ ] 人类简史
 
 # Books Continue ...
 
-经济
-
-- [ ] 管理经济学 - 莫瑞斯
-- [ ] 微观经济学 - 平狄克
-- [ ] 宏观经济学 - 多恩布什
-- [ ] 全球视角的宏观经济学 - 杰弗里•萨克斯
-- [ ] Microeconomic Theory - Nicholson
++ 经济
+    1. [ ] 管理经济学 - 莫瑞斯
+    1. [ ] 微观经济学 - 平狄克
+    1. [ ] 宏观经济学 - 多恩布什
+    1. [ ] 全球视角的宏观经济学 - 杰弗里•萨克斯
+    1. [ ] Microeconomic Theory - Nicholson
 
 # Movies & Videos 2016
 
