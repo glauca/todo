@@ -33,6 +33,8 @@ IT
 - [ ] [MongoDB in Action, 2nd Edition](https://book.douban.com/subject/26723983/) [download](http://pan.baidu.com/s/1dFnsNfF)
 - [X] [HTML5: 20 Lessons to Successful Web Development](https://book.douban.com/subject/26629912/)
 - [ ] [Programming HTML5 Applications](https://book.douban.com/subject/6726963/)
+- [ ] [JavaScript高级程序设计 (第3版)](https://book.douban.com/subject/10546125/)
+- [ ] [jQuery基础教程 (第4版)](https://book.douban.com/subject/25733582/)
 
 经济 社会 心理
 
