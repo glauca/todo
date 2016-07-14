@@ -34,6 +34,7 @@
     1. [ ] [Programming HTML5 Applications](https://book.douban.com/subject/6726963/)
     1. [ ] [JavaScript高级程序设计 (第3版)](https://book.douban.com/subject/10546125/)
     1. [ ] [jQuery基础教程 (第4版)](https://book.douban.com/subject/25733582/)
+    1. [ ] [Backbone.js应用程序开发](https://book.douban.com/subject/25980651/)
 
 + 经济 社会 心理
     1. [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
