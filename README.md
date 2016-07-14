@@ -12,7 +12,7 @@
 1. [ ] [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html) [笔记](https://github.com/glauca/document/blob/master/src/php/framework/yii/README.md)
 1. [ ] [深入理解Yii2.0](http://www.digpage.com/)
 1. [ ] [TIPI: 深入理解PHP内核](http://www.php-internals.com/)
-1. [ ] [nginx documentation](http://nginx.org/en/docs/)
+1. [X] [nginx documentation](http://nginx.org/en/docs/)
 1. [ ] [MySQL 5.7 Reference Manual](http://dev.mysql.com/doc/refman/5.7/en/)
 1. [ ] [Phalcon 2.0.10 documentation](https://docs.phalconphp.com/en/latest/index.html)
 1. [ ] [The MongoDB 3.2 Manual](https://docs.mongodb.org/manual/)
