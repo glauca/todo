@@ -54,6 +54,7 @@
     1. [ ] 大败局
     1. [X] [人类群星闪耀时](https://book.douban.com/subject/6783783/)
     1. [ ] 人类简史
+    1. [X] [这才是日本史](https://book.douban.com/subject/5922967/)
 
 # Books Continue ...
 
