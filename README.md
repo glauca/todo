@@ -90,3 +90,5 @@
 1. :star::star::dizzy::dizzy::dizzy: [异形4 Alien: Resurrection (1997)](https://movie.douban.com/subject/1299153/)
 1. :star::star::star::dizzy::dizzy: [了不起的盖茨比 The Great Gatsby (2013)](https://movie.douban.com/subject/3364223/)
 1. :star::star::star::star::dizzy: [功夫熊猫3 Kung Fu Panda 3 (2016)](https://movie.douban.com/subject/11589036/)
+1. :star::star::star::star::dizzy: [水浒传之英雄本色 水滸傳之英雄本色 (1992)](https://movie.douban.com/subject/1297924/)
+1. :star::star::star::star::dizzy: [寒战 寒戰 (2012)](https://movie.douban.com/subject/6890730/)
