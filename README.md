@@ -92,4 +92,5 @@
 1. :star::star::star::star::dizzy: [功夫熊猫3 Kung Fu Panda 3 (2016)](https://movie.douban.com/subject/11589036/)
 1. :star::star::star::star::dizzy: [水浒传之英雄本色 水滸傳之英雄本色 (1992)](https://movie.douban.com/subject/1297924/)
 1. :star::star::star::star::dizzy: [寒战 寒戰 (2012)](https://movie.douban.com/subject/6890730/)
-1. :star::star::star::star::dizzy: [美人鱼 (2016)](https://movie.douban.com/subject/19944106/)
+1. :star::star::star::dizzy::dizzy: [美人鱼 (2016)](https://movie.douban.com/subject/19944106/)
+1. :star::star::star::dizzy::dizzy: [大地惊雷 True Grit (2010)](https://movie.douban.com/subject/3626372/)
