@@ -94,3 +94,4 @@
 1. :star::star::star::star::dizzy: [寒战 寒戰 (2012)](https://movie.douban.com/subject/6890730/)
 1. :star::star::star::dizzy::dizzy: [美人鱼 (2016)](https://movie.douban.com/subject/19944106/)
 1. :star::star::star::dizzy::dizzy: [大地惊雷 True Grit (2010)](https://movie.douban.com/subject/3626372/)
+1. :star::star::star::star::dizzy: [借东西的小人阿莉埃蒂 借りぐらしのアリエッティ (2010)](https://movie.douban.com/subject/4202302/)
