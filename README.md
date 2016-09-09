@@ -59,18 +59,18 @@
 # Books Continue ...
 
 + IT
-    1. [算法导论 Introduction to Algorithms, Third Edition](https://book.douban.com/subject/20432061/)
-    1. [编程珠玑 More Programming Pearls，Second Edition](https://book.douban.com/subject/26302533/)
-    1. [C程序设计语言 The C Programming Language](https://book.douban.com/subject/1139336/)
-    1. [数据结构 Fundamentals of Data Structures in C](https://book.douban.com/subject/1886174/)
-    1. [人月神话(40周年中文纪念版)](https://book.douban.com/subject/26358448/)
-    1. [编码 Code: The Hidden Language of Computer Hardware and Software](https://book.douban.com/subject/20260928/)
-    1. [编程之美](https://book.douban.com/subject/3004255/)
-    1. [啊哈!算法](https://book.douban.com/subject/25894685/)
-    1. [算法的乐趣](https://book.douban.com/subject/26351257/)
-    1. [实时分析：流数据的分析与可视化技术](https://book.douban.com/subject/26773406/)
-    1. [用户网络行为画像](https://book.douban.com/subject/26762081/)
-    1. [我知道你是谁·我知道你做过什么](https://book.douban.com/subject/26354179/)
+    1. [ ] [算法导论 Introduction to Algorithms, Third Edition](https://book.douban.com/subject/20432061/)
+    1. [ ] [编程珠玑 More Programming Pearls，Second Edition](https://book.douban.com/subject/26302533/)
+    1. [ ] [C程序设计语言 The C Programming Language](https://book.douban.com/subject/1139336/)
+    1. [ ] [数据结构 Fundamentals of Data Structures in C](https://book.douban.com/subject/1886174/)
+    1. [ ] [人月神话(40周年中文纪念版)](https://book.douban.com/subject/26358448/)
+    1. [ ] [编码 Code: The Hidden Language of Computer Hardware and Software](https://book.douban.com/subject/20260928/)
+    1. [ ] [编程之美](https://book.douban.com/subject/3004255/)
+    1. [ ] [啊哈!算法](https://book.douban.com/subject/25894685/)
+    1. [ ] [算法的乐趣](https://book.douban.com/subject/26351257/)
+    1. [ ] [实时分析：流数据的分析与可视化技术](https://book.douban.com/subject/26773406/)
+    1. [ ] [用户网络行为画像](https://book.douban.com/subject/26762081/)
+    1. [ ] [我知道你是谁·我知道你做过什么](https://book.douban.com/subject/26354179/)
 
 + 经济
     1. [ ] 管理经济学 - 莫瑞斯
