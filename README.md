@@ -35,7 +35,7 @@
     1. [ ] [JavaScript高级程序设计 (第3版)](https://book.douban.com/subject/10546125/)
     1. [ ] [jQuery基础教程 (第4版)](https://book.douban.com/subject/25733582/)
     1. [ ] [Backbone.js应用程序开发](https://book.douban.com/subject/25980651/)
-    1. [ ] [Linux Shell脚本攻略](https://book.douban.com/subject/6889456/)
+    1. [ ] [Linux Shell脚本攻略](https://book.douban.com/subject/6889456/) [笔记](./src/books/program/Linux Shell Scripting Cookbook/README.md)
 
 + 经济 社会 心理
     1. [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
