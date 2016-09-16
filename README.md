@@ -27,14 +27,15 @@
     1. [X] [Pro Git 2nd Edition](https://git-scm.com/book/en/v2) [笔记](https://github.com/glauca/document/blob/master/src/vcs/git.md)
     1. [ ] [HTTP权威指南](https://book.douban.com/subject/10746113/) [笔记](./src/books/program/HTTP The Definitive Guide/README.md)
     1. [ ] [Redis in Action](https://book.douban.com/subject/10597898/)
-    1. [ ] [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
-    1. [ ] [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
+    1. [ ] [鸟哥的 Linux 私房菜: 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
+    1. [ ] [鸟哥的 Linux 私房菜: 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
     1. [ ] [MongoDB in Action, 2nd Edition](https://book.douban.com/subject/26723983/) [download](http://pan.baidu.com/s/1dFnsNfF)
     1. [X] [HTML5: 20 Lessons to Successful Web Development](https://book.douban.com/subject/26629912/)
     1. [ ] [Programming HTML5 Applications](https://book.douban.com/subject/6726963/)
     1. [ ] [JavaScript高级程序设计 (第3版)](https://book.douban.com/subject/10546125/)
     1. [ ] [jQuery基础教程 (第4版)](https://book.douban.com/subject/25733582/)
     1. [ ] [Backbone.js应用程序开发](https://book.douban.com/subject/25980651/)
+    1. [ ] [Linux Shell脚本攻略](https://book.douban.com/subject/6889456/)
 
 + 经济 社会 心理
     1. [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
@@ -53,7 +54,7 @@
     1. [ ] 跌荡一百年
     1. [ ] 大败局
     1. [X] [人类群星闪耀时](https://book.douban.com/subject/6783783/)
-    1. [ ] 人类简史
+    1. [ ] [人类简史: 从动物到上帝](https://book.douban.com/subject/25985021/)
     1. [X] [这才是日本史](https://book.douban.com/subject/5922967/)
 
 # Books Continue ...
