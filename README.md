@@ -118,3 +118,4 @@
 1. :star::star::star::star::star: [V字仇杀队 V for Vendetta (2005)](https://movie.douban.com/subject/1309046/)
 1. :star::star::star::star::dizzy: [鹿鼎记 鹿鼎記 (1992)](https://movie.douban.com/subject/1297223/)
 1. :star::star::star::star::dizzy: [鹿鼎记2：神龙教 鹿鼎記II 神龍教 (1992)](https://movie.douban.com/subject/1306951/)
+1. :star::star::star::star::star: [唐太宗李世民 (1994)](https://movie.douban.com/subject/2300213/)
