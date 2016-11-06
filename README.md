@@ -120,3 +120,4 @@
 1. :star::star::star::star::dizzy: [鹿鼎记2：神龙教 鹿鼎記II 神龍教 (1992)](https://movie.douban.com/subject/1306951/)
 1. :star::star::star::star::star: [唐太宗李世民 (1994)](https://movie.douban.com/subject/2300213/)
 1. :star::star::dizzy::dizzy::dizzy: [煎饼侠 (2015)](https://movie.douban.com/subject/25895276/)
+1. :star::star::star::dizzy::dizzy: [岁月风云之上海皇帝 歲月風雲之上海皇帝 (1993)](https://movie.douban.com/subject/1300575/)
