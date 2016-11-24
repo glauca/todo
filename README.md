@@ -125,3 +125,4 @@
 1. :star::star::star::star::star: [点球成金 Moneyball (2011)](https://movie.douban.com/subject/3023164/)
 1. :star::star::star::star::dizzy: [变形金刚3 Transformers: Dark of the Moon (2011)](https://movie.douban.com/subject/3610047/)
 1. :star::star::star::star::star: [变形金刚2 Transformers: Revenge of the Fallen (2009)](https://movie.douban.com/subject/2146991/)
+1. :star::star::star::dizzy::dizzy: [变形金刚4：绝迹重生 Transformers: Age of Extinction (2014)](https://movie.douban.com/subject/7054604/)
