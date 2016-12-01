@@ -128,3 +128,21 @@
 1. :star::star::star::dizzy::dizzy: [变形金刚4：绝迹重生 Transformers: Age of Extinction (2014)](https://movie.douban.com/subject/7054604/)
 1. :star::star::star::star::star: [阿郎的故事 (1989)](https://movie.douban.com/subject/1293315/)
 1. :star::star::star::star::star: [暗战 暗戰 (1999)](https://movie.douban.com/subject/1298898/)
+
+# Learning Some Things In 21 Days
+
+1. [X] Learning Git In 21 Days
+1. [ ] Learning Ukulele In 21 Days
+1. [ ] Learning HTTP In 21 Days
+1. [ ] Learning JavaScript In 21 Days
+1. [ ] Learning Storm In 21 Days
+1. [ ] Learning Go In 21 Days
+1. [ ] Learning PHP In 21 Days
+1. [ ] Learning MySQL In 21 Days
+1. [ ] Learning Linux In 21 Days
+1. [ ] Learning MongoDB In 21 Days
+1. [ ] Learning Lucene In 21 Days
+1. [ ] Learning Elasticsearch In 21 Days
+1. [ ] Learning Phalcon In 21 Days
+1. [ ] Learning Yii2 In 21 Days
+1. [ ] Learning 经济学 In 21 Days
