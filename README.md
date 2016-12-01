@@ -141,8 +141,12 @@
 1. [ ] Learning MySQL In 21 Days
 1. [ ] Learning Linux In 21 Days
 1. [ ] Learning MongoDB In 21 Days
+1. [ ] Learning Node.js In 21 Days
 1. [ ] Learning Lucene In 21 Days
 1. [ ] Learning Elasticsearch In 21 Days
 1. [ ] Learning Phalcon In 21 Days
 1. [ ] Learning Yii2 In 21 Days
+1. [ ] Learning Python In 21 Days
+1. [ ] Learning R In 21 Days
+1. [ ] Learning Ruby In 21 Days
 1. [ ] Learning 经济学 In 21 Days
