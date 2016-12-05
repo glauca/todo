@@ -128,6 +128,7 @@
 1. :star::star::star::dizzy::dizzy: [变形金刚4：绝迹重生 Transformers: Age of Extinction (2014)](https://movie.douban.com/subject/7054604/)
 1. :star::star::star::star::star: [阿郎的故事 (1989)](https://movie.douban.com/subject/1293315/)
 1. :star::star::star::star::star: [暗战 暗戰 (1999)](https://movie.douban.com/subject/1298898/)
+1. :star::star::star::star::dizzy: [暗战2 (2001)](https://movie.douban.com/subject/1308120/)
 
 # Learning Some Things In 21 Days
 
