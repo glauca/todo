@@ -37,6 +37,7 @@
     1. [ ] [Backbone.js应用程序开发](https://book.douban.com/subject/25980651/)
     1. [ ] [Linux Shell脚本攻略](https://book.douban.com/subject/6889456/) [笔记](./src/books/program/Linux Shell Scripting Cookbook/README.md)
     1. [X] [用户故事地图](https://book.douban.com/subject/26760348/)
+    1. [X] [程序员修炼之道](https://book.douban.com/subject/5387402/) [笔记](./src/books/program/The Pragmatic Programmer/README.md)
 
 + 经济 社会 心理
     1. [ ] [经济学原理 - 曼昆](http://yuedu.163.com/source/d81f8e114d684605a7e69da85d1a4f6b_4)
