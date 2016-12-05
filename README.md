@@ -129,6 +129,8 @@
 1. :star::star::star::star::star: [阿郎的故事 (1989)](https://movie.douban.com/subject/1293315/)
 1. :star::star::star::star::star: [暗战 暗戰 (1999)](https://movie.douban.com/subject/1298898/)
 1. :star::star::star::star::dizzy: [暗战2 (2001)](https://movie.douban.com/subject/1308120/)
+1. :star::star::star::star::dizzy: [黑社会 黑社會 (2005)](https://movie.douban.com/subject/1309220/)
+1. :star::star::star::star::star: [黑社会2：以和为贵 黑社會以和為貴 (2006)](https://movie.douban.com/subject/1484760/)
 
 # Learning Some Things In 21 Days
 
