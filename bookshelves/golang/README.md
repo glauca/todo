@@ -42,6 +42,6 @@
 
 ![Mastering Go Web Services](http://www.salttiger.com/wp-content/uploads/2015/09/1.jpg)
 
-+ [ ] [Go程序设计语言(英文版)](https://book.douban.com/subject/26859123/)
++ [ ] [Go程序设计语言(英文版)](https://book.douban.com/subject/26859123/) [笔记](./The Go Programming Language.md)
 
 ![Go程序设计语言(英文版)](https://img3.doubanio.com/mpic/s29140891.jpg)
