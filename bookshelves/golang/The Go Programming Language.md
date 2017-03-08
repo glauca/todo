@@ -4,7 +4,7 @@
 
 + [X] Preface
 
-+ [ ] 1. Tutorial
++ [X] 1. Tutorial
 
 + [ ] 2. Program Structure
 
