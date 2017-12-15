@@ -1,5 +1,7 @@
 ### 2017-12
 
+1. [激荡三十年：中国企业1978-2008(上)](https://book.douban.com/subject/1970428/)
+
 ### 2017-11
 
 1. [大败局Ⅰ](https://book.douban.com/subject/6526032/)
