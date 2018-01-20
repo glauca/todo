@@ -1,6 +1,7 @@
 ### 2018-01
 
 1. 天才在左 疯子在右（珍藏版）
+1. [Sass and Compass in Action](https://book.douban.com/subject/6732187/)
 
 
 ### 2017-12
