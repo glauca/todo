@@ -2,6 +2,7 @@
 
 1. 天才在左 疯子在右（珍藏版）
 1. [Sass and Compass in Action](https://book.douban.com/subject/6732187/)
+1. [圣经的故事](https://book.douban.com/subject/26743667/)
 
 
 ### 2017-12
