@@ -1,7 +1,7 @@
 ### 2018-03
 
 1. [穷查理宝典：查理·芒格智慧箴言录](https://book.douban.com/subject/26831789/)
-1. [未来简史](https://book.douban.com/subject/26943161/)[笔记](./src/books/management/未来简史/)
+1. [未来简史](https://book.douban.com/subject/26943161/) [笔记](./src/books/management/未来简史/)
 
 ### 2018-02
 
