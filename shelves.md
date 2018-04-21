@@ -1,3 +1,7 @@
+### 2018-04
+
+1. [大败局Ⅱ](https://book.douban.com/subject/2064450/)
+
 ### 2018-03
 
 1. [穷查理宝典：查理·芒格智慧箴言录](https://book.douban.com/subject/26831789/)
