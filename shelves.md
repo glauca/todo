@@ -1,6 +1,6 @@
 ### 2018-06
 
-1. [1491：前哥伦布时代美洲启示录](https://book.douban.com/subject/26801839/)
+1. [1493：物种大交换开创的世界史](https://book.douban.com/subject/26801839/)
 
 ### 2018-05
 
