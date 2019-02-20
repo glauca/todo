@@ -1,6 +1,7 @@
 ### 2019-02
 
 1. [跌荡一百年（上）](https://book.douban.com/subject/3313327/)
+1. [跌荡一百年（下）](https://book.douban.com/subject/4010186/)
 
 ### 2018-06
 
