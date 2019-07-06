@@ -1,3 +1,7 @@
+### 2019-07
+
+1. [富兰克林自传【富兰克林自传】](https://book.douban.com/subject/4007097/)
+
 ### 2019-02
 
 1. [跌荡一百年（上）](https://book.douban.com/subject/3313327/)
