@@ -1,6 +1,7 @@
 ### 2019-07
 
 1. [富兰克林自传【富兰克林自传】](https://book.douban.com/subject/4007097/)
+1. [只有偏执狂才能生存【安迪·格鲁夫】](https://book.douban.com/subject/25902032/)
 
 ### 2019-02
 
