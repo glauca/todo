@@ -1,6 +1,6 @@
 ### Backend
 1. [Ant Design of Vue](https://antdv.com/docs/vue/introduce-cn/)
-1. [Ant Design of Vue](https://pro.antdv.com/)
+1. [ANTD PRO VUE](https://pro.antdv.com/)
 
 ### Api
 1. [PHP](https://www.php.net/)
